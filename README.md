@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Jaunpur, Uttar Pradesh, India.<br>✉️  You can contact me at LinkedIn.<br>📄 View my Resume.<br>🔭 I’m currently working on React Projects<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about<br>⚡ A big Iron Man Fan
+🌍  I'm based in Jaunpur, Uttar Pradesh, India.<br>✉️  You can contact me at [LinkedIn](https://linkedin.com/in/vivek1325) .<br>📄 View my Resume.<br>🔭 I’m currently working on React Projects<br>🌱 I’m currently learning ReactJs.<br>💬 Ask me about<br>⚡ A big Iron Man Fan
 
 
 ## 🌐 Socials:
