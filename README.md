@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Jaunpur, Uttar Pradesh, India.<br>📄 View my [Resume](https://drive.google.com/file/d/1xf1V4Wr7dvYCL9JBAwACB1oIENHyN60C/view?usp=drive_link).<br>🔭 I’m currently working on MERN stack Projects<br>🌱 I’m currently learning Devops.<br>💬 I love Backend Development<br>⚡ A big Iron Man Fan
+🌍 I'm based in Jaunpur, Uttar Pradesh, India.<br>📄 View my [Resume](https://drive.google.com/file/d/1PocryRwPLFIQVa15P7Qrb-TcC_ZEpIhn/view?usp=sharing).<br>🔭 I’m currently working on MERN stack Projects<br>🌱 I’m currently learning Devops.<br>💬 I love Backend Development<br>⚡ A big Iron Man Fan
 
 
 ## 🌐 Socials:
